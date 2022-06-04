@@ -1,9 +1,9 @@
 # Get-WlanProfiles
 
 Get WlanProfiles: Obtener claves wifi de windows.
-Archivos:
-Get-WlanProfiles.bat
-Get-WlanProfiles.psm1
-config.vbs - oculta ventana CMD
+<br>Archivos:
+<br>Get-WlanProfiles.bat
+<br>Get-WlanProfiles.psm1
+<br>config.vbs - oculta ventana CMD
 
 Creditos code: https://github.com/H3LL0WORLD 
