@@ -9,7 +9,7 @@ Function Get-WLAN_Profiles {
 			'profile_not_found_text' = 'No se encuentra el perfil'
 			'ssid_name_text' 		 = 'Nombre de SSID'
 			'network_type_text' 	 = 'Tipo de red'
-			'authentication_text'	 = 'Autenticación'
+			'authentication_text'	 = 'Autenticaciï¿½n'
 			'encryption_text'	 	 = 'Cifrado'
 			'key_text' 				 = 'Contenido de la clave'
 		}
