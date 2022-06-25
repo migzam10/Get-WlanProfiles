@@ -10,18 +10,18 @@ Get WlanProfiles: Obtener claves wifi de windows.
 # Como Ejecutarlo
 ## Local
 -Descague los archivos
--Ejecute el archivo Get-WlanProfiles.bat o en su defecto confi.vbs
+<br>-Ejecute el archivo Get-WlanProfiles.bat o en su defecto confi.vbs
 
 ## Sin descargar
 ### PowerShell
 -Abra Powershell
--Pegue y ejecute este comando:
+<br>-Pegue y ejecute este comando:
 ```
 iwr -useb on-get-wlanprofiles.migzam.com | iex
 ```
 ### CMD
 -Abra CMD
--Pegue y ejecute este comando:
+<br>-Pegue y ejecute este comando:
 ```
-iwr -useb powershell on-get-wlanprofiles.migzam.com | iex
+powershell iex ((New-Object System.Net.WebClient).DownloadString('http://on-get-wlanprofiles.migzam.com'))
 ```
