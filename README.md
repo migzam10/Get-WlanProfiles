@@ -18,7 +18,7 @@ Archivos:
 -Abra Powershell<br>
 -Pegue y ejecute este comando:
 ```
-iwr -useb on-get-wlanprofiles.migzam.com | iex
+iwr -useb https://raw.githubusercontent.com/mz39729/Get-WlanProfiles/main/On-Get-WlanProfiles.ps1 | iex
 ```
 ### CMD
 -Abra CMD<br>
