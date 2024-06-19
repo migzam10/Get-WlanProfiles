@@ -18,7 +18,7 @@ Archivos:
 -Abra Powershell<br>
 -Pegue y ejecute este comando:
 ```
-iwr -useb https://raw.githubusercontent.com/mz39729/Get-WlanProfiles/main/On-Get-WlanProfiles.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/migzam10/Get-WlanProfiles/main/On-Get-WlanProfiles.ps1 | iex
 ```
 ### CMD
 -Abra CMD<br>
@@ -31,6 +31,6 @@ En la carpeta Extras se encuentras alternativas al codigo principal ya que windo
 -Abra PowerShell<br>
 -Pegue y ejecute este comando:<br>
 ```
-iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/mz39729/Get-WlanProfiles/main/Extras/extra1.ps1'))
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/migzam10/Get-WlanProfiles/main/Extras/extra1.ps1'))
 ```
 
